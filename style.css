@@ -1,0 +1,16 @@
+body{
+
+    background-color: rgb(255, 255, 255);
+}
+
+.borda1 {
+    border: solid 50px rgb(255, 255, 255);
+}
+
+.borda2 {
+    border: solid 5px rgb(255, 255, 255);
+}
+
+.borda3 {
+    border: solid 5px rgb(255, 255, 255);
+}
