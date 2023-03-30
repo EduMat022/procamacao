@@ -1,14 +1,25 @@
 body{
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
 }
 .cabecalho {
-    background-color: bisque;
+    background-color: rgb(28, 122, 185);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: baseline;
+    padding: auto;
+    margin: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.escola {
     color: rgb(0, 0, 0);
     display: block;
     justify-content: baseline;
     padding: auto;
-    margin: 0%;
+    margin: 10px;
 }
+
+.escolaconteudo
     
 #logoalura {
     width: 20%; 
