@@ -11,6 +11,15 @@ body{
     font-family: 'Roboto Mono', monospace;
 }
 
+.foto1 {
+    padding-left: 10px;
+    padding-top: 150px;
+}
+
+.lista-itens {
+    padding-bottom: 1000px;
+}
+
 .escola {
     color: rgb(0, 0, 0);
     display: block;
@@ -19,7 +28,17 @@ body{
     margin: 10px;
 }
 
-.escolaconteudo
+.escolaconteudo {
+    display: block;
+}
+
+.escolatitulo {
+    display: block;
+}
+
+escolatexto1 {
+    display: block;
+}
     
 #logoalura {
     width: 20%; 
